@@ -1,0 +1,5 @@
+c:\users\ksaad\documents\visual studio 2015\Projects\Everlight.Puzzle\Everlight.Puzzle\bin\Debug\Everlight.Puzzle.exe.config
+c:\users\ksaad\documents\visual studio 2015\Projects\Everlight.Puzzle\Everlight.Puzzle\bin\Debug\Everlight.Puzzle.exe
+c:\users\ksaad\documents\visual studio 2015\Projects\Everlight.Puzzle\Everlight.Puzzle\bin\Debug\Everlight.Puzzle.pdb
+c:\users\ksaad\documents\visual studio 2015\Projects\Everlight.Puzzle\Everlight.Puzzle\obj\Debug\Everlight.Puzzle.exe
+c:\users\ksaad\documents\visual studio 2015\Projects\Everlight.Puzzle\Everlight.Puzzle\obj\Debug\Everlight.Puzzle.pdb
